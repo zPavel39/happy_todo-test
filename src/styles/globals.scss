@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+html,
+body {
+	height: 100%;
+	background: #010409;
+	line-height: 1;
+	font-size: 14px;
+	color: white;
+	font-weight: 400;
+	font-family: 'Montserrat', sans-serif;
+}
+.container {
+	max-width: 1150px;
+	position: relative;
+	margin: 0 auto;
+}
